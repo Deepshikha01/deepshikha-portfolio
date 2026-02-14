@@ -1,31 +1,29 @@
-# Professional Portfolio
+# Deepshikha's Portfolio
 
-A modern, responsive portfolio website built with React, Vite, and Tailwind CSS. Features smooth animations, clean design, and optimized for recruiter attention.
-
-![Portfolio Preview](https://via.placeholder.com/1200x600/0ea5e9/ffffff?text=Portfolio+Preview)
+A modern, responsive portfolio website built with React, Vite, and Tailwind CSS. Features smooth animations, clean design, and optimized for professional presentation.
 
 ## ✨ Features
 
 - **Modern Design**: Clean, professional UI with smooth animations using Framer Motion
 - **Fully Responsive**: Works perfectly on desktop, tablet, and mobile devices
 - **Fast Performance**: Built with Vite for lightning-fast load times
-- **SEO Optimized**: Meta tags and semantic HTML for better search visibility
+- **Dark Mode Support**: Toggle between light and dark themes
 - **Easy Customization**: Simple configuration to add your own content
-- **GitHub Pages Ready**: Automated deployment with GitHub Actions
+- **GitHub Pages Ready**: Automated deployment with gh-pages
 
 ## 🚀 Quick Start
 
 ### Prerequisites
 
 - Node.js 18+ installed
-- npm or yarn package manager
+- npm package manager
 
 ### Installation
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/spec-kit.git
-cd spec-kit/portfolio
+git clone https://github.com/Deepshikha01/deepshikha-portfolio.git
+cd deepshikha-portfolio
 ```
 
 2. Install dependencies:
